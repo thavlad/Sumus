@@ -25,18 +25,6 @@ const PHONE_LINK = "tel:+2348065047590";
 export default function HomePage() {
   return (
     <>
-      {/* Temporary header. The full header with search and menu comes in Step 4. */}
-      <header className="border-b border-slate-200">
-        <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-4">
-          <Link href="/" className="text-xl font-bold text-blue-700">
-            {STORE_NAME}
-          </Link>
-          <a href={PHONE_LINK} className="text-sm font-medium text-slate-700">
-            {PHONE_DISPLAY}
-          </a>
-        </div>
-      </header>
-
       <main>
         {/* Hero */}
         <section className="bg-blue-700 text-white">
