@@ -3,11 +3,11 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: {
-    default: "Store | Phones, Electronics and Home Appliances in Nigeria",
-    template: "%s | Store",
+    default: "Sumus | Electrical, Electronics and Home Appliances in Nigeria",
+    template: "%s | Sumus",
   },
   description:
-    "Genuine phones, electronics, home appliances, and solar products in Nigeria, with delivery to Lagos and beyond.",
+    "Genuine Electrical Building materials, electronics, home appliances, and solar products in Nigeria, with delivery to Lagos and beyond.",
 };
 
 export default function RootLayout({
