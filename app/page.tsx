@@ -18,9 +18,9 @@ const trustPoints = [
 ];
 
 // Placeholder details. Replace them with your real store information.
-const STORE_NAME = "Store";
-const PHONE_DISPLAY = "+234 000 000 0000";
-const PHONE_LINK = "tel:+2340000000000";
+const STORE_NAME = "Sumus";
+const PHONE_DISPLAY = "+234 806 504 7590";
+const PHONE_LINK = "tel:+2348065047590";
 
 export default function HomePage() {
   return (
